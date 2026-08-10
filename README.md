@@ -2,7 +2,13 @@
 
 Full-Stack Engineer based in Belgium.
 
-Building modern web applications, SaaS products and e-commerce solutions.
+I design, build and deploy modern web applications, SaaS products and e-commerce solutions with a focus on performance, maintainability and scalability.
 
-🌐 https://benjamindossantos.be
-💼 https://linkedin.com/in/benjamin-dos-santos
+## What I build
+
+- Modern web applications
+- SaaS products
+- E-commerce solutions
+- Business software
+- Headless CMS projects
+- Cloud-native applications
